@@ -1,0 +1,19 @@
+-- VERSION_4
+-- START DISKCACHE
+/Users/xiongzenghui/source/PyDev/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Demo1/com.python.pydev.analysis/v2_indexcache
+test1.__init__|1414682655000|/Users/xiongzenghui/source/PyDev/workspace/Demo1/src/test1/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+0
+-- END DICTIONARY
+-- START TREE 1
+5
+a|0|
+b|0|
+dic|0|
+lis|0|
+str|0|
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

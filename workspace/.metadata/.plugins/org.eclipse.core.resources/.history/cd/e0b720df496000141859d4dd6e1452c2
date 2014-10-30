@@ -1,0 +1,10 @@
+'''
+Created on 2014年10月30日
+
+@author: xiongzenghui
+'''
+
+a,b = 20,10
+
+if a == 30:
+    print(a)
